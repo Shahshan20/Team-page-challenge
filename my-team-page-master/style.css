@@ -1,0 +1,793 @@
+.container{
+    position: absolute;
+    width: 1440px;
+    height: 1489px;
+    left: 0px;
+    top: 0px;
+    
+    background: #FAFAFA;
+
+}
+.heading{
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 243px;
+    top: 80px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    
+    color: #000000;
+    
+
+}
+.whoheading{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 736px;
+    top: 110px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+}
+.details{
+    position: absolute;
+    width: 439px;
+    height: 87px;
+    left: 736px;
+    top: 147px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    
+    color: #000000;
+    
+
+}
+.img1{
+    background-image: url(photo1.png) ;
+  background-repeat: no-repeat;
+  background-size: contain;
+   
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 250px;
+    top: 300px;
+    
+
+}
+.img1name{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 250px;
+    top: 630px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+.designation{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 450px;
+    top: 332px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+.img2{
+    background-image: url(photo2.png) ;
+  background-repeat: no-repeat;
+  background-size: contain;
+   
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 534.64px;
+    top: 396px;
+
+
+    
+
+}
+.img2name{
+    position: absolute;
+    width: 128px;
+    height: 27px;
+    left: 530px;
+    top: 730px;;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.designation2{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 740px;
+    top: 430px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+
+}
+.img3{
+    background-image: url(photo3.png) ;
+  background-repeat: no-repeat;
+  background-size: contain;
+   
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 863.54px;
+    top: 300px;
+    
+
+}
+.img3name{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 865px;
+    top: 630px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+.designation3{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 1073px;
+    top: 332px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+.img4{
+    background-image: url(photo4.png) ;
+  background-repeat: no-repeat;
+  background-size: contain;
+   
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 250px;
+    top: 810px;
+    
+
+}
+.img4name{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 250px;
+    top: 1140px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+.designation4{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 450px;
+    top: 845px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+.img5{
+    background-image: url(photo5.png) ;
+  background-repeat: no-repeat;
+  background-size: contain;
+   
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 534.64px;
+    top: 944px;
+
+
+    
+
+}
+.img5name{
+    position: absolute;
+    width: 128px;
+    height: 27px;
+    left: 530px;
+    top: 1280px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.designation5{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 740px;
+    top: 980px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+.img6{
+    background-image: url(photo6.png) ;
+  background-repeat: no-repeat;
+  background-size: contain;
+   
+    position: absolute;
+    width: 238px;
+    height: 426.5px;
+    left: 863.54px;
+    top: 796px;
+    
+
+}
+.img6name{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 865px;
+    top: 1130px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+
+}
+.designation6{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 1073px;
+    top: 845px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg);
+}
+.footer{
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 547px;
+    top: 1448px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #A9A9A9;
+
+}
+@media screen and (max-width : 600px) {
+    .container{
+        position: absolute;
+        width: 375px;
+        height: 1409px;
+        left: 0px;
+        top: 0px;
+        
+        background: #FAFAFA;
+        
+    
+    }
+    .heading{
+        position: absolute;
+width: 278px;
+height: 47px;
+left: 12px;
+top: 71px;
+
+font-family: 'PT Serif';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+letter-spacing: -0.045em;
+
+color: #000000;
+
+        
+    
+    }
+    .whoheading{
+        position: absolute;
+        width: 117px;
+        height: 27px;
+        left: 12px;
+        top: 156px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        text-transform: uppercase;
+        
+        color: #000000;
+       
+        
+    }
+    .details{
+        position: absolute;
+        width: 333px;
+        height: 87px;
+        left: 12px;
+        top: 193px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 21px;
+        
+        color: #000000;
+        
+       
+    
+    }
+    .img1{
+        background-image: url(photo1.png) ;
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 138.72px;
+      height: 261.4px;
+      left: 12px;
+      top: 300px;
+      
+       
+       
+        
+    
+    }
+    .img1name{
+        position: absolute;
+        width: 128px;
+        height: 18px;
+        left: 12px;
+        top: 500px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 21px;
+        
+        color: #000000;
+        
+    
+    }
+    .designation{
+        width: 130px;
+        height: 11px;
+        left: 100px;
+        top: 350px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 13px;
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+        transform: rotate(90deg);
+        
+    }
+    .img2{
+        background-image: url(photo2.png) ;
+      background-repeat: no-repeat;
+      background-size: contain;
+       
+        position: absolute;
+        width: 177.42px;
+        height: 283.69px;
+        left: 180.52px;
+        top: 346.12px;
+        
+    
+    
+        
+    
+    }
+    .img2name{
+        width: 141px;
+        height: 18px;
+        left: 180px;
+        top: 595px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+        
+        
+    }
+    .designation2{
+        position: absolute;
+        width: 122px;
+        height: 10px;
+        left: 320px;
+        top: 395px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 13px;
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+        transform: rotate(90deg);
+       
+    
+    }
+    .img3{
+        background-image: url(photo3.png) ;
+      background-repeat: no-repeat;
+      background-size: contain;
+       
+        position: absolute;
+        width: 138.72px;
+        height: 261.4px;
+        left: 12px;
+        top: 700px;
+        
+    
+    }
+    .img3name{
+        position: absolute;
+        width: 128px;
+        height: 18px;
+        left: 12px;
+        top: 890px;;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+    
+    }
+    .designation3{
+        position: absolute;
+        width: 130px;
+        height: 11px;
+        left: 100px;
+        top: 750px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        /* identical to box height */
+        
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+        transform: rotate(90deg);
+    }
+    .img4{
+        background-image: url(photo4.png) ;
+      background-repeat: no-repeat;
+      background-size: contain;
+       
+        position: absolute;
+        width: 177.42px;
+        height: 283.69px;
+        left: 180.52px;
+        top: 750px;
+        
+    
+    }
+    .img4name{
+        position: absolute;
+        width: 141px;
+        height: 18px;
+        left: 180px;
+        top: 1000px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+    
+    }
+    .designation4{
+        position: absolute;
+        width: 122px;
+        height: 10px;
+        left: 320px;
+        top: 800px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        /* identical to box height */
+        
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+        transform: rotate(90deg);
+    }
+    .img5{
+        background-image: url(photo5.png) ;
+      background-repeat: no-repeat;
+      background-size: contain;
+       
+        position: absolute;
+        width: 138.72px;
+        height: 261.4px;
+        left: 12px;
+        top: 1080px;
+        
+    
+    
+        
+    
+    }
+    .img5name{
+        position: absolute;
+        width: 128px;
+        height: 18px;
+        left: 12px;
+        top: 1280px;;
+        
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+    }
+    .designation5{
+        position: absolute;
+        width: 130px;
+        height: 11px;
+        left: 100px;
+        top: 1130px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        /* identical to box height */
+        
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+        transform: rotate(90deg);
+    }
+    .img6{
+        background-image: url(photo6.png) ;
+      background-repeat: no-repeat;
+      background-size: contain;
+       
+        position: absolute;
+        width: 177.42px;
+        height: 283.69px;
+        left: 180.52px;
+        top: 1150px;
+    
+    }
+    .img6name{
+        position: absolute;
+        width: 141px;
+        height: 18px;
+        left: 180px;
+        top: 1400px;
+        
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 27px;
+        /* identical to box height */
+        
+        
+        color: #000000;
+    
+    }
+    .designation6{
+        position: absolute;
+        width: 122px;
+        height: 10px;
+        left: 320px;
+        top: 1195px;
+        
+        font-family: 'PT Serif';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 16px;
+        /* identical to box height */
+        
+        text-transform: uppercase;
+        
+        color: #000000;
+        
+        transform: rotate(90deg);
+    }
+    .footer{
+        position: absolute;
+        width: 287px;
+        height: 17px;
+        left: 120px;
+        top: 1448px;
+        
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        /* identical to box height */
+        
+        text-align: center;
+        
+        color: #A9A9A9;
+    
+    }
+
+    
+}
+
